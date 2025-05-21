@@ -1,7 +1,7 @@
 Sistema de Autenticação - Python
 
 Como executar:
-1. Execute o script 'autenticacao.py' com Python 3:
+1. Execute o script 'auth.py' com Python 3:
    python autenticacao.py
 
 2. Primeiro acesso:
