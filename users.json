@@ -1,0 +1,20 @@
+{
+    "admin": {
+        "nome": "Administrador",
+        "login": "admin",
+        "senha": "novaSenhaSegura123",
+        "perfil": "admin",
+        "ultimo_login": "2025-05-21 09:10:00",
+        "tentativas_falhas": 0,
+        "ativo": true
+    },
+    "maria": {
+        "nome": "Maria Souza",
+        "login": "maria",
+        "senha": "maria123",
+        "perfil": "user",
+        "ultimo_login": "2025-05-20 12:00:00",
+        "tentativas_falhas": 0,
+        "ativo": true
+    }
+}
